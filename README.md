@@ -17,7 +17,7 @@ Directory created for the yearly course: Envirotech - Adv - BIDR BGU, 2026 .<br>
 
 
 
-!\[Alt text](logo.png)
+![Alt text](logo.png)
 
 
 
